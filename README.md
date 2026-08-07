@@ -23,10 +23,7 @@ STM32F767ZI multi-sensor IoT monitor with FreeRTOS, LwIP, and Adafruit IO cloud 
 
 ## 📡 System Architecture
 
-HC-SR04 ──TIM3 IC──┐
-MQ Sensor ─ADC1────┼──► FreeRTOS Tasks ──► LwIP TCP ──► Adafruit IO
-MH IR ────GPIO─────┘ │
-└──► UART Debug (115200)
+![System Architecture](docs/system_architecture.png)
 
 ---
 
