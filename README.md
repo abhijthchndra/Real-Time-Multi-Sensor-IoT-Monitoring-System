@@ -94,3 +94,14 @@ const char *AIO_KEY      = "aio_xxxxxxxxxxxx";
 
 ## 📄 License
 MIT License — free to use for learning and personal projects.
+
+---
+ 
+## 🙋 Author
+ 
+**Abhijith Chandra**
+ 
+[![GitHub](https://img.shields.io/badge/GitHub-@YOUR__USERNAME-black?logo=github)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
+ 
+---
