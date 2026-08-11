@@ -102,6 +102,6 @@ MIT License — free to use for learning and personal projects.
 **Abhijith Chandra**
  
 [![GitHub](https://img.shields.io/badge/GitHub-@abhijthchndra-black?logo=github)](https://github.com/abhijthchndra)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/abhijith-chandra/)
  
 ---
